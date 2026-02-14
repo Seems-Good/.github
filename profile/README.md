@@ -1,51 +1,42 @@
 # Seems Good - World of Warcraft Guild
 
-Welcome to the official GitHub organization for **[Seems Good](https://seemsgood.org/)** — a Cutting Edge World of Warcraft guild dedicated to pushing high-end Mythic+ dungeons, raid progression, and community-driven tools.
+Welcome to the official GitHub organization for **[Seems Good](https://seemsgood.org/)** 
 
----
+_a Cutting Edge World of Warcraft guild dedicated to pushing Mythic+ dungeons, raid progression, and community driven tools_
 
-## 📦 What You'll Find Here
+## What You'll Find Here
 
-This GitHub hosts public projects created and maintained by our guild to support our players and the broader WoW community. Some of the tools you'll find:
+Projects created and maintained by our guild to support our players and the broader WoW community. Some of the tools you'll find:
 
-- 🎮 **Guild Website**  
+**Guild Website**  
   Custom site to display progression, recruitment, and guild events.    
-  → [https://seemsgood.org](https://seemsgood.org)
+   - [https://seemsgood.org](https://seemsgood.org)
 
-- 🤖 **Discord Bots**  
-  Utility bots to automate Mythic+ score checks, announcements, and guild communication.      
-   → [SG Assistant](https://github.com/Jeremy-Gstein/sg_assist)
+**Discord Bots**
+
+Utility bots to automate Mythic+ score checks, announcements, and guild communication.      
+   - [SG Assistant](https://github.com/Jeremy-Gstein/sg_assist)
   
-- 📊 **Combat Log Parsers**  
-  Tools for parsing and analyzing Warcraft Logs or in-game combat logs for deaths, damage trends, and mechanic failures.
+**WoW Addons**
 
-- 🗃️ **Data Archivers**  
-  Scripts for scraping leaderboard data, tracking run history, and storing it for later querying.
+Automatically detects Frost specialization Checks if the Water Elemental talent is selected Does not trigger if Lonely Winter is chosen Displays an on-screen warning when the elemental is not active Removes the warning immediately once summoned Lightweight and passive, no saved variables or menus
+   - [HydroHomieReminder](https://github.com/Seems-Good/HydroHomieReminder)
+  
+---
+
+## Contributing
+
+While most of our tools are tailored to our guild's internal needs, some are designed for general use and contributions are welcome!
 
 ---
 
-## 🛠️ Technologies
+## Learn More
 
-We love building in:
-- 🐍 **Python** for lightweight scripting and integrations
-- 🦀 **Rust** for high-performance backend tools
-- ☁️ **Cloudflare Workers & R2** for fast, global content delivery
+- [About the Guild](https://seemsgood.org/about)
+- [Public Gallery](https://api.seemsgood.org/gallery)
 
 ---
 
-## 🤝 Contributing
-
-While most of our tools are tailored to our guild's internal needs, some are designed for general use and contributions are welcome! If you're a developer in the WoW scene interested in data, automation, or helping improve the game experience — reach out!
-
----
-
-## 🧭 Learn More
-
-- 🌐 [About the Guild](https://seemsgood.org/about)
-- 📸 [Public Gallery](https://api.seemsgood.org/gallery)
-
----
-
-For any questions or collaborations, feel free to open an issue or contact us via Discord.
+For any questions or collaborations, feel free to open an issue or contact jeremy51b5@pm.me via email.
 
 _Keep it tight, wipe twice. Seems Good._
